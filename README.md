@@ -1,15 +1,26 @@
-<p float="center>
-          
-<img src="https://user-images.githubusercontent.com/113609040/210040596-19a974e5-a1c9-4da7-a54e-a68404ed17e0.png" width=22% height=35%>
+# Resume Maker Application
 
-<img src="https://user-images.githubusercontent.com/113609040/210925308-2c600106-41e5-4bbf-a7bb-8798a989a22a.png" width=30% height=40%>
+## Overview
+The Resume Maker Application is a mobile app built with Flutter, designed to help users quickly create professional-looking resumes. Users can input their details, select a theme, preview their resume, and download it in PDF format.
 
-<img src="https://user-images.githubusercontent.com/113609040/210925310-c66c49b2-33d6-4502-bc7a-26b771b0c82f.png" width=30% height=40%>
+## Features
+1. **User Input Form**: Users can input their personal details, education, work experience, skills, and other relevant information.
+2. **Theme Selection**: Users can choose from a variety of pre-designed themes to customize the look and feel of their resume.
+3. **Real-time Preview**: Users can preview their resume in real-time as they input their details and select a theme.
+4. **PDF Download**: Once satisfied with the preview, users can download their resume in PDF format for easy sharing and printing.
 
-<img src="https://user-images.githubusercontent.com/113609040/210925311-e9675b02-b1bd-45b9-910f-b486a9e329de.png" width=30% height=40%>
+## Technologies Used
+- **Flutter**: Dart programming language
+- **PDF Generation**: Flutter PDF library
+- **UI Design**: Material Design widgets
+- **State Management**: Provider
+  
+## ScreenShot 
 
-<img src="https://user-images.githubusercontent.com/113609040/210925299-6ccef22b-0d49-4af3-9823-4282c0e3fbd6.png" width=30% height=40%>
-
-<img src="https://user-images.githubusercontent.com/113609040/210925306-a0c499bd-0940-4ea2-9754-da521bbcf0ab.png" width=30% height=40%>
-                                                                                                                 
-</p>
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/BhavikPindoriya/resume_maker/assets/154498968/7238f33d-6f0a-4175-ba93-82d9eacac071" alt="Screenshot 1" width="300">
+    <img src="https://github.com/BhavikPindoriya/resume_maker/assets/154498968/610d4dfa-f14e-4d5c-a62f-083d620b58ab" alt="Screenshot 2" width="300">
+    <img src="https://github.com/BhavikPindoriya/resume_maker/assets/154498968/86164134-1a99-4b79-ac0d-e7e1d80a0c42" alt="Screenshot 3" width="300">
+    <img src="https://github.com/BhavikPindoriya/resume_maker/assets/154498968/f71e606c-1b13-4b77-8934-32c4c60f3edb" alt="Screenshot 4" width="300">
+    <img src="https://github.com/BhavikPindoriya/resume_maker/assets/154498968/218f1ebe-885e-448b-99d2-0e1c5dd0b16e" alt="Screenshot 4" width="300">
+</div>
